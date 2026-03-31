@@ -1,0 +1,5 @@
+{
+  "name": "Remix: 多语言词条翻译工具",
+  "description": "将简体中文词条批量翻译成40种指定语种，并生成可复制的表格行。",
+  "requestFramePermissions": []
+}
